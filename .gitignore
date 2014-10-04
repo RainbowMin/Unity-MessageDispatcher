@@ -1,0 +1,11 @@
+Library/
+_UpgradeReport_Files/
+obj/
+*.cspoj
+*.sln
+*.suo
+
+/UpgradeLog.XML
+/UpgradeLog.htm
+/*.csproj
+/*.DotSettings
