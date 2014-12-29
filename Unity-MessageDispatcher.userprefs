@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MJ/MessageDispatcher.cs">
+    <Files>
+      <File FileName="Assets/Examples/TestText.cs" Line="3" Column="26" />
+      <File FileName="Assets/MessageDispatcher/EMessageType.cs" Line="2" Column="1" />
+      <File FileName="Assets/MessageDispatcher/MessageDispatcher.cs" Line="6" Column="3" />
+      <File FileName="Assets/MessageDispatcher/Singleton.cs" Line="12" Column="11" />
+      <File FileName="Assets/Examples/TestButton.cs" Line="13" Column="82" />
+      <File FileName="Assets/MJ/Singleton.cs" Line="4" Column="1" />
+      <File FileName="Assets/MJ/MessageDispatcher.cs" Line="13" Column="5" />
+      <File FileName="Assets/Examples/TestText1.cs" Line="10" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

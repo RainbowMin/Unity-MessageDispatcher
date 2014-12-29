@@ -1,7 +1,4 @@
-﻿using UnityEngine;
-using System.Collections;
-
-#region 界面事件 EUIMessage 0 - 999
+﻿#region 界面事件 EUIMessage 0 - 999
 public enum EUIMessage : uint
 {
     UITest0 = 0,
